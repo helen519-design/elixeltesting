@@ -45,7 +45,11 @@ export const Step1Who: React.FC = () => {
       currentIndex={1}
       total={2}
       question="Who do you want to claim for?"
-      description="Didn't see the person you want to claim for?"
+      description={
+        <span className="underline">
+          Didn't see the person you want to claim for?
+        </span>
+      }
     >
       <OptionChipGroup
         options={options}

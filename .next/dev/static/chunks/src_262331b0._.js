@@ -2529,7 +2529,14 @@ const Step1Who = ()=>{
         currentIndex: 1,
         total: 2,
         question: "Who do you want to claim for?",
-        description: "Didn't see the person you want to claim for?",
+        description: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+            className: "underline",
+            children: "Didn't see the person you want to claim for?"
+        }, void 0, false, {
+            fileName: "[project]/src/components/steps/Step1Who.tsx",
+            lineNumber: 49,
+            columnNumber: 9
+        }, void 0),
         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$OptionChipGroup$2e$tsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
             options: options,
             value: selectedValue,
@@ -2537,7 +2544,7 @@ const Step1Who = ()=>{
             layout: "horizontal"
         }, void 0, false, {
             fileName: "[project]/src/components/steps/Step1Who.tsx",
-            lineNumber: 50,
+            lineNumber: 54,
             columnNumber: 7
         }, ("TURBOPACK compile-time value", void 0))
     }, void 0, false, {
