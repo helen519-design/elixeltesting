@@ -1,0 +1,3 @@
+module.exports=[27572,a=>{"use strict";var b=a.i(7997);function c({children:a}){return(0,b.jsx)("html",{lang:"en",className:"h-full",children:(0,b.jsxs)("body",{className:"h-full antialiased",children:[a,(0,b.jsx)("div",{id:"root-portal"})]})})}a.s(["default",()=>c,"metadata",0,{title:"WPA Claim Flow",description:"Health claim prototype"}])}];
+
+//# sourceMappingURL=src_app_layout_tsx_cc8184fa._.js.map
